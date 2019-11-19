@@ -1,0 +1,11 @@
+.idea
+
+data
+!data/robertcv-info.csv
+!data/opencv/create_cascade.sh
+
+report
+
+IBB_Tutorials___A2__18_19_.pdf
+
+*.pyc
